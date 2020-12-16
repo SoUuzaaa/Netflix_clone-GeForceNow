@@ -9,4 +9,4 @@ Alterando a roupagem para o aplicativo GeForce Now, streaming de jogos.
 
 ✔️**Botões funcionarem**
 
-![previa](Netflix_clone-GeForceNow\img\previa.gif)
+![previa](https://github.com/SoUuzaaa/Netflix_clone-GeForceNow/blob/main/img/previa.gif)
